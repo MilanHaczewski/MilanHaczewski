@@ -1,14 +1,36 @@
-👋 Hoi, ik ben Milan, een recent afgestudeerde softwareontwikkelaar.
+# 👋 Hoi, ik ben Milan Haczewski
 
-👀 Ik ben geïnteresseerd in webontwikkeling en het creëren van gebruiksvriendelijke interfaces. Ik heb ervaring met verschillende technologieën zoals PHP, HTML, CSS, JavaScript, WordPress en Laravel.
+🎓 Afgestudeerd Software Developer met een passie voor webdevelopment en het bouwen van gebruiksvriendelijke applicaties.
 
-🌱 Momenteel werk ik veel met WordPress en combineer ik deze talen voor maatwerkoplossingen, waarbij ik zowel de front-end als de back-end aanpas om aan de specifieke behoeften van mijn klanten te voldoen.
+## 💻 Over mij
+Ik werk graag aan moderne webapplicaties en websites waarbij performance, gebruiksvriendelijkheid en nette code centraal staan. Ik ontwikkel zowel backend als frontend oplossingen en blijf mezelf continu verbeteren als developer.
 
-💞️ Ik ben op zoek naar samenwerkingen op het gebied van webontwikkeling, waarin ik mijn vaardigheden verder kan ontwikkelen en bijdragen aan innovatieve projecten.
+## 🚀 Technologieën & Skills
+- PHP
+- Laravel
+- WordPress
+- JavaScript
+- HTML5
+- CSS3
+- MySQL / SQL
+- Git & GitHub
 
-📫 Je kunt me bereiken via milanhaczewski@gmail.com.
+## 🌱 Momenteel bezig met
+- Verder verdiepen in Laravel & backend development
+- Werken aan persoonlijke projecten
+- Verbeteren van mijn clean code en software architectuur skills
 
-<!---
-milanthedestroyer/milanthedestroyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Open voor samenwerkingen
+Ik sta open voor samenwerkingen binnen webdevelopment waarbij ik kan bijdragen aan innovatieve projecten en mezelf verder kan ontwikkelen als developer.
+
+## 📂 Projecten
+Bekijk mijn repositories om mijn projecten en experimenten te zien.
+
+## 📫 Contact
+📧 Email: milanhaczewski@gmail.com  
+💬 WhatsApp: +31 6 21665642  
+🔗 LinkedIn: www.linkedin.com/in/milan-haczewski-038a9a264
+
+---
+
+⭐ Bekijk gerust mijn projecten en laat feedback achter!
